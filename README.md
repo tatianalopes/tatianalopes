@@ -5,7 +5,6 @@
 
 My name is Tatiana Lopes and I'm a Software Engineer.
 
-- Currently working at [CESAR](http://english.cesar.org.br/)
-- Some technologies I have worked with: ![Java](https://img.shields.io/badge/-Java-5382a1) ![Android](https://img.shields.io/badge/-Android-a4c639) ![C/C++](https://img.shields.io/badge/-C/C++-508EBF) ![Python](https://img.shields.io/badge/-Python-FFD43B)
-- Always trying to learn new things. Right now I'm studying web development with **React** and **NodeJS**
+- Currently working at [KnowHow](https://tryknowhow.com/)
+- Some technologies I have worked with: ![React Badge](https://img.shields.io/badge/-React.js-7bdcfe) ![React Native Badge](https://img.shields.io/badge/-React%20Native-5488ff) ![Java](https://img.shields.io/badge/-Java-5382a1) ![Android](https://img.shields.io/badge/-Android-a4c639) ![Python](https://img.shields.io/badge/-Python-FFD43B) ![Node Badge](https://img.shields.io/badge/-Node.js-4d8939).
 
